@@ -5,7 +5,7 @@ define('DB_PASS', 'leica666');
 define('DB_NAME', 'test');
 
 // Base URL and paths
-define('BASE_URL', '/test');
+define('BASE_URL', '/listadodetareas');
 define('ROOT_PATH', __DIR__);
 define('CONTROLLER_PATH', ROOT_PATH . '/controller/');
 define('DB_PATH', ROOT_PATH . '/db/');
